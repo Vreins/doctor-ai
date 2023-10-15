@@ -5,8 +5,6 @@ python-socketio
 gtts
 pygame
 PyAudio
-threading
 whisper
 SpeechRecognition
 google.cloud
-typing
