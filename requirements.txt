@@ -4,7 +4,6 @@ python-dotenv
 python-socketio
 gtts
 pygame
-PyAudio-0.2.11-cp27-cp27m-win32.whl
 pyaudio== 0.2.11
 whisper
 SpeechRecognition
