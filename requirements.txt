@@ -1,0 +1,11 @@
+langchain
+openai
+python-dotenv
+python-socketio
+gtts
+pygame
+PyAudio
+threading
+whisper
+SpeechRecognition
+google.cloud
