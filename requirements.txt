@@ -9,3 +9,4 @@ threading
 whisper
 SpeechRecognition
 google.cloud
+typing
